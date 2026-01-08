@@ -12,7 +12,7 @@ class FlirPortableFix:
     def __init__(self, root):
         self.root = root
         # 更新視窗標題包含版權資訊
-        self.root.title("FLIR ONE 照片轉換工具 - 台中市立惠文高中地球科學吳秉勳教師製作")
+        self.root.title("FLIR ONE 照片轉換工具")
         self.root.geometry("1400x900")
         self.root.configure(bg="#121212")
 
