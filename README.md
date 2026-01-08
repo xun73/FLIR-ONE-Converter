@@ -1,3 +1,4 @@
+<img width="1402" height="932" alt="image" src="https://github.com/user-attachments/assets/93f320e6-cbdb-425c-a9e4-4eac2cfd801d" />
 # FLIR ONE 照片轉換工具 (FLIR ONE Image Conversion Tool)
 
 **製作人：台中市立惠文高中 地球科學 吳秉勳教師**
@@ -44,4 +45,5 @@
 > **Notes:** The program automatically detects its own directory to call `exiftool`. If a "Tool not found" error occurs, please double-check that `exiftool.exe` is named correctly and placed in the same folder as the program.
 
 ---
+
 **版權所有 © 台中市立惠文高中 地球科學 吳秉勳教師** **Copyright © Bing-Syun Wu, Earth Science Teacher, Taichung Municipal Hui-Wen High School**
