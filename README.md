@@ -26,8 +26,7 @@
 
 ## 📸 應用範例 (Applications)
 本工具可應用於地熱調查或火山觀測。您可以參考以下網頁，查看使用 FLIR ONE 拍攝大屯火山區的實際案例與照片：
-* **大屯火山群觀測範例**：[點此前往查看](https://sites.google.com/view/earthscienceworld/geology/volcanology/tatun)
-* https://sites.google.com/view/earthscienceworld/geology/volcanology/tatun
+* **大屯火山群觀測範例**：https://sites.google.com/view/earthscienceworld/geology/volcanology/tatun
 
 ---
 
